@@ -1,3 +1,3 @@
-# Translation HowTo
+# Traducción de documentación
 
-Instructions goes here.
+Aquí están las instrucciones para ayudar con la traducción. 

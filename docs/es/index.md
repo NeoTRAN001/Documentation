@@ -1,15 +1,15 @@
-## What is ZeroNet?
+## ¿Qué es ZeroNet?
 
-ZeroNet uses Bitcoin cryptography and BitTorrent technology to build a **decentralized censorship-resistant network**.
+ZeroNet utiliza la criptografía de Bitcoin y la tecnología de BitTorrent para construir una **red descentralizada resistente a la censura**. 
 
-Users can publish static or dynamic websites to ZeroNet and visitors can choose to also serve the site themselves. Websites will remain online as long as one peer is still online.
+Los usuarios pueden publicar sitios estáticos o dinámicos en ZeroNet y los visitantes pueden elegir si quieren o no distribuir el sitio ellos mismos. Los sitios web permanecerán en línea mientras un par siga en línea.
 
-When a site is updated by its owner, all nodes serving that site (previous visitors) will receive only the incremental updates made to the site content.
+Cuando un sitio es actualizado por su propietario, todos los nodos que distribuyen ese sitio (visitantes anteriores) recibirán solamente las actualizaciones realizadas en el contenido del sitio.
 
-ZeroNet comes with a built-in SQL database. This makes content-heavy site development easy. The DB is then synced to hosting nodes via incremental updates.
+ZeroNet se distribuye con una base de datos SQL lista para usar. Esto facilita el desarrollo de sitios con mucho contenido. Luego, la base de datos se sincroniza con los nodos de alojamiento a través de actualizaciones incrementales. 
 
 
-## Why?
+## ¿Por qué? 
 
 * We believe in open, free, and uncensored communication.
 * No censorship: After something is published there is no way to remove it.
