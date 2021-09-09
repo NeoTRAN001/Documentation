@@ -11,13 +11,13 @@ ZeroNet se distribuye con una base de datos SQL lista para usar. Esto facilita e
 
 ## ¿Por qué? 
 
-* We believe in open, free, and uncensored communication.
-* No censorship: After something is published there is no way to remove it.
-* No single point of failure: Content remains online even if only one peer is serving it.
-* Impossible to shut down: It's nowhere because it's everywhere. Content is served by any user who wishes to.
-* Fast: ZeroNet uses BitTorrent technology to deliver content faster than centralised servers.
-* Works offline: You can access the site even if your internet is unavailable.
-* Secure: Content ownership is secured using the same cryptography that secures your Bitcoin wallet.
+* Creemos en la comunicación abierta, gratuita y sin censura. 
+* Sin censura: después de que se publica algo, no hay forma de eliminarlo. 
+* No hay un solo punto de falla: el contenido permanece en línea incluso si solo un par lo distribuye. 
+* Imposible de parar: no está en ninguna parte porque está en todas partes. El contenido es distribuido por cualquier usuario que desee contribuir.
+* Rápido: ZeroNet utiliza la tecnología BitTorrent para entregar contenido más rápido que los servidores centralizados.
+* Trabajar sin conexión: Puede acceder al sitio incluso si su Internet no está disponible.
+* Seguro: La propiedad del contenido está asegurada utilizando la misma criptografía que protege su billetera Bitcoin. 
 
 [comment]: <> (I'm unsure about the following bit. Thoughts?)
 [comment]: <> (# What problem is ZeroNet solving?)
